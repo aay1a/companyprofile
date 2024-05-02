@@ -28,7 +28,7 @@ $admin = $aa->fetch_assoc();
 		<button class="navbar-toggler d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebar">
 			<span class="navbar-toggler-icon"></span>
 		</button>
-		<a class="navbar-brand px-3" href="">Ora Aji</a>
+		<a class="navbar-brand px-3" href="">Admin</a>
 		<div class="navbar-nav">
 			<div class="nav-item">
 				<a class="nav-link px-3" href="logout.php">
