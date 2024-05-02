@@ -5,7 +5,7 @@
 		<div class="row">
 			<div class="col-md-6 col-6 mt-2">
 				<img src="assets/file/logo.png" width="100"> <br><br>
-				<span class=" mb-md-0 text-white">&copy; Pesantren Ora Aji 2023</span>
+				<span class=" mb-md-0 text-white">&copy; Nayla Laelatussaadah 2024</span>
 			</div>
 			<div class="col-md-6 col-6 text-end">
 				<a href="" class="text-decoration-none text-white">
